@@ -13,13 +13,16 @@
 
 ![IFCO Smart Cycle](IFCO_smart_cycle_image.png)
 
+Simulation Application hosted by Streamlit Community Cloud: **https://ifcodschallange.streamlit.app/**
+
+
 ### For Non-Technical Audience
 The IFCO SmartCycle Simulation visualizes and analyzes how reusable packaging containers (RPCs) move through the food supply chain. It helps answer critical business questions:
 - What percentage of containers are lost during their journey?
 - How many containers are available at any given time?
 - How can we ensure we have enough containers to maintain operations?
 
-Our interactive dashboard allows you to adjust parameters and see the impact on container loss rates and pool size over time.
+The interactive dashboard allows you to adjust parameters and see the impact on container loss rates and pool size over time.
 
 ### For Technical Audience
 This project implements a stochastic simulation of the IFCO SmartCycle process, modeling how Reusable Packaging Containers (RPCs) circulate through the supply chain. The simulation uses probabilistic models to estimate shrinkage rates and pool size evolution over time.
